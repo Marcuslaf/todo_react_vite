@@ -70,13 +70,6 @@ TodoApp/
 
 ---
 
-# Licença / License
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feito com ❤️ por [Marcus Lafaiete](https://https://github.com/Marcuslaf/todo_react_vite) / Made with ❤️ by [Marcus Lafaiete](https://https://github.com/Marcuslaf/todo_react_vite)
+Feito com ❤️ por / Made with ❤️ by [Marcus Lafaiete](https://github.com/Marcuslaf/todo_react_vite)
 
